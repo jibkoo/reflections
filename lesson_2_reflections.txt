@@ -1,2 +1,6 @@
 This is some text
-asdf asdf 
+asdf asdf
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- staging allow us to not commit everyting in the folder 
+
